@@ -1,0 +1,87 @@
+body {
+    font family: 'Console', Arial, Helvetica, sans-serif;
+}
+
+. flex-container-1 {
+    display: flex;
+    justify the content: center;
+}
+
+. flex-container-2 {
+    display: flex;
+    justify the content: center;
+}
+
+. flex-container-2-2 {
+    display: flex;
+    justify the content: center;
+    flexible steering: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+. flex-container-3 {
+    display: flex;
+    justify the content: center;
+    flexible steering: row;
+    flex-wrap: wrap;
+    padding-top: 40 px;
+}
+
+h1 {
+    font size: 36 px;
+    text transformation: uppercase;
+}
+
+for {
+    font size: 20 px;
+}
+
+time course {
+    display: flex;
+    justify the content: center;
+    bottom edge: 3 px solid #DC1F27;
+    width: 40 px;
+    margin: 5 px;
+    padding-bottom: 10 px;
+    font size: 25 px;
+    font weight: bold;
+    text transformation: uppercase;
+}
+
+button {
+    display: flex;
+    justify the content: center;
+    margin: 5 px;
+    width: 35 px;
+    fill: 10 px 0;
+    background color: #00698C;
+    color: #FFFFFF;
+    edge: 1 px solid #00698C;
+    edge radius: 5 px;
+    font weight: bold;
+    font size: 18 px;
+    cursor: pointer;
+    text transformation: uppercase;
+}
+
+button: hover {
+    background color: #0682ac;
+}
+
+button. new-bt {
+    width: automatic;
+    fill: 10 px;
+}
+
+. Certain,. right: hover {
+    background: #0682ac;
+    edge: 1 px solid #0682ac;
+    cursor: inherit;
+}
+
+. wrong,. wrong: hover {
+    background: #DC1F27;
+    edge: 1 px solid #DC1F27;
+    cursor: inherit;
+}
